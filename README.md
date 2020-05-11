@@ -74,7 +74,7 @@ I have decided to engage in 3 different investigations:<br/>
 
 **Results**  For the social media I decided to check the trending pages and with TikTok specifically I also checked the sounds trending page. For google I decided to Check two searches with google analytics 1. 'Netflix shows to watch' and 2. 'what to do at home?' then graph these results and link them to the isolation periods of majority of the world.
 For Instagram #bored was one of the more popular tags with over 7M posts. For Twitter all the top results were political based therefore those results weren't very valid. On TikTok #BoredAtHome was one of the top trending tags and the sound of a song quite literally just saying 'I'm bored in the house' was ranked top 10. For google there was an incredible spike in searches of both these terms directly at the time isolation began to take place and people began to be forced out of work.
-![analytics](../master/images/stats1.png)
+![analytics](../master/Images/analytics1.png)
 
 
 
