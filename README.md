@@ -1,26 +1,31 @@
 # Design Technology Major Project FBR_ROM V2.0.0
 By Sebastian Cincotta (Arikami)
+## Index
 
 ##  Glossary
+[1.1.1 What is the Problem? (Design Situation)](#1.1.1-what-is-the-problem?-(design-situation))<br/>
+[1.1.2 How Can I Justify This Need?](#1.1.2-how-can-i-justify-this-need?-(exploration-of-need)) 
+
+
 #### Gunpla 
 Plastic scale models of war robots aka mobile suits from a popular Japanese animation.<br/>
 
-## What is the Problem?
+## 1.1.1 What is the Problem? (Design Situation)
 
 I will start with first noting that I have changed my project from its initial problem and idea due to this problem becoming evermore apparent to me.<br/>
 
 Boredom.<br/>
 Boredom should not exist, yet it is so prevalent.<br/>
-I pondered over this question while making [Gunpla](####gunpla) models on the second week of self isolation. I do not understand why anyone would be bored considering the incredible amount of things there are to do in this world. I understood peoples lonely state due to not being able to interact with friends, family, etc. but the state of being bored... there had to be an explanation for this phenomenon. Boredom, by definition, is the state of being tired or impatient due to either being uninterested or having nothing to do. Yet stuck indoors with loads of possible things to do people were still bored. Everyone being bored isn't an issue limited to my circle though. This can be proved by hashtags like #boredathome and #bored being the top trending topics on almost all platforms for (as of when i am writing this) 5 weeks! People aren't just bored, but unmotivated to 'not be bored'. Upon people telling me they were bored I'd give them suggestions but they would brush them off. I think this was not due to them not being into the thing but more being narrow sighted, restricting themselves to their own interests, and since it was not related to what they already thought they liked, paying it as something that wouldn't be of any value to them. I understand this as I have done this myself, but the lack of chance majority of people give to new things is probably what has resulted in this boredom pandemic which has been present for so long but only really became properly exposed now. 
+I pondered over this question while making [Gunpla](#gunpla) models on the second week of self isolation. I do not understand why anyone would be bored considering the incredible amount of things there are to do in this world. I understood peoples lonely state due to not being able to interact with friends, family, etc. but the state of being bored... there had to be an explanation for this phenomenon. Boredom, by definition, is the state of being tired or impatient due to either being uninterested or having nothing to do. Yet stuck indoors with loads of possible things to do people were still bored. Everyone being bored isn't an issue limited to my circle though. This can be proved by hashtags like #boredathome and #bored being the top trending topics on almost all platforms for (as of when i am writing this) 5 weeks! People aren't just bored, but unmotivated to 'not be bored'. Upon people telling me they were bored I'd give them suggestions but they would brush them off. I think this was not due to them not being into the thing but more being narrow sighted, restricting themselves to their own interests, and since it was not related to what they already thought they liked, paying it as something that wouldn't be of any value to them. I understand this as I have done this myself, but the lack of chance majority of people give to new things is probably what has resulted in this boredom pandemic which has been present for so long but only really became properly exposed now. 
 So what really is the problem?<br/>
 
 ```People Not having interesting and/or voluntary things to do, thus resulting in boredom.```<br/>
 
 Therefore my need is to<br/>
 
-```Find a way to stop people from being bored```
+```Find a way to stop people from being bored long-term```
 
-## How Can I Justify This Need? 
+## 1.1.2 How Can I Justify This Need? (Exploration of Need)
 
 I have to conduct some investigation to prove that this problem is in fact a problem.<br/>
 I have decided to engage in 3 different investigations:<br/>
@@ -74,11 +79,30 @@ I have decided to engage in 3 different investigations:<br/>
 
 **Results**  For the social media I decided to check the trending pages and with TikTok specifically I also checked the sounds trending page. For google I decided to Check two searches with google analytics 1. 'Netflix shows to watch' and 2. 'what to do at home?' then graph these results and link them to the isolation periods of majority of the world.
 For Instagram #bored was one of the more popular tags with over 7M posts. For Twitter all the top results were political based therefore those results weren't very valid. On TikTok #BoredAtHome was one of the top trending tags and the sound of a song quite literally just saying 'I'm bored in the house' was ranked top 10. For google there was an incredible spike in searches of both these terms directly at the time isolation began to take place and people began to be forced out of work.
-![](../master/Images/analytics1.PNG)
+![](../master/Images/analytics1.PNG) <br/>
+
+**Conclusions** I can safely conclude that when people don't have the distraction of work a vast quantity of people don't have much else to resort to to take up time. <br/>
+
+## 1.1.3 Justification Conclusion
+After gathering data, survey results, and conversing with people I know I have come to the conclusion that boredom is a huge problem. I can link boredom very clearly to lack of things to do (as with the rise of the virus people aren't distracted by work and have nothing else to do). I Have also concluded through observation that people develop interests through 2 major ways:<br/>
+
+##### 1. Environmental Absorption 
+>People as they exist absorb traits and develop interests from things that surround them. Mimicking parents. Lessons taken at school. Geographic location. all these things are 
+>gathered subconsciously and become part of a person and develop into their interests. A personal example being why I love anime. When I was younger I had much earlier bedtimes then 
+>most other kids due to strict parents. This meant I would wake up earlier and watch tv while the rest of the house and my younger siblings were asleep. In the early 2000s to mid 
+>2010s anime like Digimon, Pokémon, Yu-gi-oh, and Beyblade would be airing. Due to me not having many friends as a child I ended up being very into sciences and reading so i was not 
+>as entertained by normal tv shows, whereas these shows were much more plot heavy and truly excited me. <br/>
+>As you can see this environmental factor of the time and place I was born greatly contributed to my interests today. <br/>
+
+##### 2. Interjectional Absorption 
+>People also absorb interests and preferences through introduction from a third party. In most cases this is family and friends. People find others with similar interests and 
+>contribute their own interests building on the overall interests of a person. <br/>
+
+The issue with this is after a certain point in most peoples lives (usually around mid to late teens) they pay less attention to all the things in their environment as their interests are already solidified and they are paying attention to their already distinguished interests instead of being open to more. This can also be said for interests developed through direct introduction (interjectional). Around mid 20's most peoples friends are relatively similar not in personality but in interests, as most people form bonds over their common attributes and also because most of the friends people have at that time are the long-term friends. The link to my issue is the fact that since people may be getting new friends and moving around socially, they gravitate to people already invested in what *they* are invested in, they tend to seclude themselves from more opportunities to develop new interests due to the sub-conscience thematic restrictions they have applied to their preference of people.
 
 
 
-**Conclusions** I can safely conclude that when people don't have the distraction of work a vast quantity of people don't have much else to resort to to take up time.
+## 1.2 Design Brief
+I am going to design and create a product that can solve/reduce involuntary states of boredom through exposure to new things. I must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; I must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
 
-## Design Brief
-I am going to design and create a product that can solve/reduce involuntary states of boredom. I must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; I must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring.
+## 2.3 Areas of Investigation
