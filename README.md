@@ -1,12 +1,17 @@
 # Design Technology Major Project FBR_ROM V2.0.0
 By Sebastian Cincotta (Arikami)
+
+
 ## Index
 
-##  Glossary
 [1.1.1 What is the Problem? (Design Situation)](#111-what-is-the-problem-design-situation)<br/>
 [1.1.2 How Can I Justify This Need? (Exploration of Need)](#112-how-can-i-justify-this-need-exploration-of-need) 
 [1.1.3 Justification Conclusion](#113-justification-conclusion)
 [1.1.4 Potential Opportunities (Ongoing)](#114-potential-opportunities-ongoing)
+[1.2 Design Brief](#12-design-brief)
+[1.3 Areas of Investigation](#23-areas-of-investigation)
+    
+##  Glossary
 
 #### Gunpla 
 Plastic scale models of war robots aka mobile suits from a popular Japanese animation.<br/>
@@ -105,9 +110,7 @@ The issue with this is after a certain point in most peoples lives (usually arou
 Here I will provide a list of all opportunities that arise/are possible due to the basis of my design/product. This will include, but is not limited to, target audience opportunities, marketing opportunities, collaborative opportunities, implementation opportunities, and funding opportunities.<br/>
 
 
-
-
 ## 1.2 Design Brief
 I am going to design and create a product that can solve/reduce involuntary states of boredom through exposure to new things of potential interest. I must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; I must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
 
-## 2.3 Areas of Investigation
+## 1.3 Areas of Investigation
