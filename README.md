@@ -3,8 +3,8 @@ By Sebastian Cincotta (Arikami)
 ## Index
 
 ##  Glossary
-[1.1.1 What is the Problem? (Design Situation)](#1.1.1-what-is-the-problem?-(design-situation))<br/>
-[1.1.2 How Can I Justify This Need?](#1.1.2-how-can-i-justify-this-need?-(exploration-of-need)) 
+[1.1.1 What is the Problem? (Design Situation)](#1.1.1-what-is-the-problem-design-situation)<br/>
+[1.1.2 How Can I Justify This Need?](#1.1.2-how-can-i-justify-this-need-exploration-of-need) 
 
 
 #### Gunpla 
