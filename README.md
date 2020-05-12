@@ -5,12 +5,12 @@ By Sebastian Cincotta (Arikami)
 ## Index
 
 [1.1.1 What is the Problem? (Design Situation)](#111-what-is-the-problem-design-situation)<br/>
-[1.1.2 How Can I Justify This Need? (Exploration of Need)](#112-how-can-i-justify-this-need-exploration-of-need) 
-[1.1.3 Justification Conclusion](#113-justification-conclusion)
-[1.1.4 Potential Opportunities (Ongoing)](#114-potential-opportunities-ongoing)
-[1.2 Design Brief](#12-design-brief)
-[1.3 Areas of Investigation](#23-areas-of-investigation)
-    
+[1.1.2 How Can I Justify This Need? (Exploration of Need)](#112-how-can-i-justify-this-need-exploration-of-need)<br/>
+[1.1.3 Justification Conclusion](#113-justification-conclusion)<br/>
+[1.1.4 Potential Opportunities (Ongoing)](#114-potential-opportunities-ongoing)<br/>
+[1.2 Design Brief](#12-design-brief)<br/>
+[1.3 Areas of Investigation](#23-areas-of-investigation)<br/>
+
 ##  Glossary
 
 #### Gunpla 
