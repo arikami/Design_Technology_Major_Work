@@ -4,8 +4,9 @@ By Sebastian Cincotta (Arikami)
 
 ##  Glossary
 [1.1.1 What is the Problem? (Design Situation)](#111-what-is-the-problem-design-situation)<br/>
-[1.1.2 How Can I Justify This Need?](#112-how-can-i-justify-this-need-exploration-of-need) 
-
+[1.1.2 How Can I Justify This Need? (Exploration of Need)](#112-how-can-i-justify-this-need-exploration-of-need) 
+[1.1.3 Justification Conclusion](#113-justification-conclusion)
+[1.1.4 Potential Opportunities (Ongoing)](#114-potential-opportunities-ongoing)
 
 #### Gunpla 
 Plastic scale models of war robots aka mobile suits from a popular Japanese animation.<br/>
@@ -98,11 +99,15 @@ After gathering data, survey results, and conversing with people I know I have c
 >People also absorb interests and preferences through introduction from a third party. In most cases this is family and friends. People find others with similar interests and 
 >contribute their own interests building on the overall interests of a person. <br/>
 
-The issue with this is after a certain point in most peoples lives (usually around mid to late teens) they pay less attention to all the things in their environment as their interests are already solidified and they are paying attention to their already distinguished interests instead of being open to more. This can also be said for interests developed through direct introduction (interjectional). Around mid 20's most peoples friends are relatively similar not in personality but in interests, as most people form bonds over their common attributes and also because most of the friends people have at that time are the long-term friends. The link to my issue is the fact that since people may be getting new friends and moving around socially, they gravitate to people already invested in what *they* are invested in, they tend to seclude themselves from more opportunities to develop new interests due to the sub-conscience thematic restrictions they have applied to their preference of people.
+The issue with this is after a certain point in most peoples lives (usually around mid to late teens) they pay less attention to all the things in their environment as their interests are already solidified and they are paying attention to their already distinguished interests instead of being open to more. This can also be said for interests developed through direct introduction (interjectional). Around mid 20's most peoples friends are relatively similar not in personality but in interests, as most people form bonds over their common attributes and also because most of the friends people have at that time are the long-term friends. The link to my issue is the fact that since people may be getting new friends and moving around socially, they gravitate to people already invested in what *they* are invested in, they tend to seclude themselves from more opportunities to develop new interests due to the sub-conscience thematic restrictions they have applied to their preference of people. With this and my research in mind its not only a matter of having boring things to do but not having *enough* to do and the restrictions creating a mundane aspect to things one would personally associate themselves as interested in. <br/>
+
+## 1.1.4 Potential Opportunities (Ongoing)
+Here I will provide a list of all opportunities that arise/are possible due to the basis of my design/product. This will include, but is not limited to, target audience opportunities, marketing opportunities, collaborative opportunities, implementation opportunities, and funding opportunities.<br/>
+
 
 
 
 ## 1.2 Design Brief
-I am going to design and create a product that can solve/reduce involuntary states of boredom through exposure to new things. I must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; I must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
+I am going to design and create a product that can solve/reduce involuntary states of boredom through exposure to new things of potential interest. I must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; I must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
 
 ## 2.3 Areas of Investigation
