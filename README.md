@@ -16,6 +16,13 @@ By Sebastian Cincotta (Arikami)
 #### Gunpla 
 Plastic scale models of war robots aka mobile suits from a popular Japanese animation.<br/>
 
+#### Anime
+A style of Japanese film and television animation, typically aimed at adults as well as children.<br/>
+
+#### Gameboy
+A small portable computer (game console), designed by Nintendo, that is specially designed for people to play games on. The consoles first edition was released in 1989 (referred to as Gameboy DMG 001 or Gameboy Original or Gameboy DMG ) and after many editions and evolutions (The main ones in chronological order: Gameboy DMG, Gameboy Pocket, Gameboy Color, Gameboy Advanced, Gameboy Advanced SP) the entire line was discontinued in 2010. The Gameboy DMG alone selling 118.69 million units (it being the original model was discontinued in 2003).<br/>
+
+
 ## 1.1.1 What is the Problem? (Design Situation)
 
 I will start with first noting that I have changed my project from its initial problem and idea due to this problem becoming evermore apparent to me.<br/>
@@ -96,7 +103,7 @@ After gathering data, survey results, and conversing with people I know I have c
 >People as they exist absorb traits and develop interests from things that surround them. Mimicking parents. Lessons taken at school. Geographic location. all these things are 
 >gathered subconsciously and become part of a person and develop into their interests. A personal example being why I love anime. When I was younger I had much earlier bedtimes then 
 >most other kids due to strict parents. This meant I would wake up earlier and watch tv while the rest of the house and my younger siblings were asleep. In the early 2000s to mid 
->2010s anime like Digimon, Pokémon, Yu-gi-oh, and Beyblade would be airing. Due to me not having many friends as a child I ended up being very into sciences and reading so i was not 
+>2010s [anime](#anime) like Digimon, Pokémon, Yu-gi-oh, and Beyblade would be airing. Due to me not having many friends as a child I ended up being very into sciences and reading so i was not 
 >as entertained by normal tv shows, whereas these shows were much more plot heavy and truly excited me. <br/>
 >As you can see this environmental factor of the time and place I was born greatly contributed to my interests today. <br/>
 
@@ -107,10 +114,27 @@ After gathering data, survey results, and conversing with people I know I have c
 The issue with this is after a certain point in most peoples lives (usually around mid to late teens) they pay less attention to all the things in their environment as their interests are already solidified and they are paying attention to their already distinguished interests instead of being open to more. This can also be said for interests developed through direct introduction (interjectional). Around mid 20's most peoples friends are relatively similar not in personality but in interests, as most people form bonds over their common attributes and also because most of the friends people have at that time are the long-term friends. The link to my issue is the fact that since people may be getting new friends and moving around socially, they gravitate to people already invested in what *they* are invested in, they tend to seclude themselves from more opportunities to develop new interests due to the sub-conscience thematic restrictions they have applied to their preference of people. With this and my research in mind its not only a matter of having boring things to do but not having *enough* to do and the restrictions creating a mundane aspect to things one would personally associate themselves as interested in. <br/>
 
 ## 1.1.4 Potential Opportunities (Ongoing)
-Here I will provide a list of all opportunities that arise/are possible due to the basis of my design/product. This will include, but is not limited to, target audience opportunities, marketing opportunities, collaborative opportunities, implementation opportunities, and funding opportunities.<br/>
+Here I will provide a list of all of my personal, and the products potential Strength, Weaknesses, Opportunities, and Threats (SWOT)<br/>
 
+|Strengths|Weaknesses|Opportunities|Threats|
+|---|---|---|---|
+| Programming| Income| Contact with large brands| Time to complete|
+| Digital Design| Physical product manufacturing| Links with tech companies| Possible funds|
+| Broad Market| Time Management| links with tech conventions| |
+| Potential for totally new product| Expensive to make electronics in low quantities| Target/ market to Nostalgia| External workload|
+| Connections with distributors| Knowledge of compilers| Create a collectable| |
+| Connections with manufacturers| | | |
+| Knowledge of [Gameboy](#gameboy) systems| | | |
+| Knowledge of retro electronics| | | |
+| Knowledge of collector markets| | | |
+| Exposure to wide range of hobbies| | | |
+| Quick at learning/understanding technology| | | |
+| Able to speak English, Japanese and Italian| | | |
+| Money management| | | |
+| Negotiation| | | |
+| Capable of articulating need| | | |
 
 ## 1.2 Design Brief
-I am going to design and create a product that can solve/reduce involuntary states of boredom through exposure to new things of potential interest. I must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; I must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
+To design and create a product that can solve/reduce involuntary states of boredom through exposure to new things of potential interest. It must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; it must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
 
 ## 1.3 Areas of Investigation
