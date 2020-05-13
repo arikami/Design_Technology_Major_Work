@@ -25,6 +25,9 @@ A small portable computer (game console), designed by Nintendo, that is speciall
 #### Hype
 High levels of excitement over something as a result of extravagant or intensive publicity, unique appeal, or intense market interest.<br/>
 
+#### Retro 
+From the recent (but not too recent) past.<br/>
+
 ## 1.1.1 What is the Problem? (Design Situation)
 
 I will start with first noting that I have changed my project from its initial problem and idea due to this problem becoming evermore apparent to me.<br/>
@@ -124,19 +127,20 @@ Here I will provide a list of all of my personal, and the products potential Str
 | Digital Design| Physical product manufacturing| Links with tech companies| Possible funds|
 | Broad Market| Time Management| links with tech conventions| External workload|
 | Potential for totally new product| Expensive to make electronics in low quantities| Target/ market to Nostalgia| |
-| Connections with distributors| Knowledge of compilers| Create a collectable| |
-| Connections with manufacturers| | ability to create ['Hype'](#hype)| |
+| Connections with distributors| Low knowledge of modern compilers| Create a collectable| |
+| Connections with manufacturers| Board-game or card-game design.| Ability to create ['Hype'](#hype)| |
 | Knowledge of [Gameboy](#gameboy) systems| | | |
-| Knowledge of retro electronics| | | |
+| Knowledge of [retro](#retro) electronics| | | |
 | Knowledge of collector markets| | | |
 | Exposure to wide range of hobbies| | | |
 | Quick at learning/understanding technology| | | |
 | Able to speak English, Japanese and Italian| | | |
-| Money management| | | |
+| Writing| | | |
 | Negotiation| | | |
 | Capable of articulating need| | | |
 
 ## 1.2 Design Brief
 To design and create a product that can solve/reduce involuntary states of boredom through exposure to new things of potential interest. It must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; it must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
 
-## 1.3 Areas of Investigation
+## 1.3 Areas of Investigation 
+After evaluating my own strengths, I came to the conclusion that to fulfil my need effectively it would be best to play to my strengths and produce some form of product that utilizes [retro](#retro) technology and takes advantage of my programming knowledge and connections.  
