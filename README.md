@@ -22,6 +22,8 @@ A style of Japanese film and television animation, typically aimed at adults as 
 #### Gameboy
 A small portable computer (game console), designed by Nintendo, that is specially designed for people to play games on. The consoles first edition was released in 1989 (referred to as Gameboy DMG 001 or Gameboy Original or Gameboy DMG ) and after many editions and evolutions (The main ones in chronological order: Gameboy DMG, Gameboy Pocket, Gameboy Color, Gameboy Advanced, Gameboy Advanced SP) the entire line was discontinued in 2010. The Gameboy DMG alone selling 118.69 million units (it being the original model was discontinued in 2003).<br/>
 
+#### Hype
+High levels of excitement over something as a result of extravagant or intensive publicity, unique appeal, or intense market interest.<br/>
 
 ## 1.1.1 What is the Problem? (Design Situation)
 
@@ -120,10 +122,10 @@ Here I will provide a list of all of my personal, and the products potential Str
 |---|---|---|---|
 | Programming| Income| Contact with large brands| Time to complete|
 | Digital Design| Physical product manufacturing| Links with tech companies| Possible funds|
-| Broad Market| Time Management| links with tech conventions| |
-| Potential for totally new product| Expensive to make electronics in low quantities| Target/ market to Nostalgia| External workload|
+| Broad Market| Time Management| links with tech conventions| External workload|
+| Potential for totally new product| Expensive to make electronics in low quantities| Target/ market to Nostalgia| |
 | Connections with distributors| Knowledge of compilers| Create a collectable| |
-| Connections with manufacturers| | | |
+| Connections with manufacturers| | ability to create ['Hype'](#hype)| |
 | Knowledge of [Gameboy](#gameboy) systems| | | |
 | Knowledge of retro electronics| | | |
 | Knowledge of collector markets| | | |
