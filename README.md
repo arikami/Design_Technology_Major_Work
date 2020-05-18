@@ -9,7 +9,9 @@ By Sebastian Cincotta (Arikami)
 [1.1.3 Justification Conclusion](#113-justification-conclusion)<br/>
 [1.1.4 Potential Opportunities (Ongoing)](#114-potential-opportunities-ongoing)<br/>
 [1.2 Design Brief](#12-design-brief)<br/>
-[1.3 Areas of Investigation](#23-areas-of-investigation)<br/>
+[1.3 What Is The Design/Product Concept (ongoing)](#13-what-is-the-designproduct-concept-ongoing)<br/>
+[1.3 What Is The Design As A Product Going To Include (ongoing)](#13-what-is-the-design-as-a-product-going-to-include-ongoing)<br/>
+[1.4 Areas of Investigation](#23-areas-of-investigation)<br/>
 
 ##  Glossary
 
@@ -27,6 +29,12 @@ High levels of excitement over something as a result of extravagant or intensive
 
 #### Retro 
 From the recent (but not too recent) past.<br/>
+
+#### Executable 
+In computing, executable code, executable file, or executable program, sometimes simply referred to as an executable, causes a computer "to perform indicated tasks according to coded instructions". This is different to a data file that must be analysed by a program to be meaningful. (Most people interact with executable files in the form of apps) <br/>
+
+#### Emulator 
+An emulator is hardware or software that enables one computer system to behave like/ run programs of another computer system. In my case, Gameboy emulators are software that allow many different modern devices to play and run Gameboy programs. <br/>
 
 ## 1.1.1 What is the Problem? (Design Situation)
 
@@ -142,5 +150,17 @@ Here I will provide a list of all of my personal, and the products potential Str
 ## 1.2 Design Brief
 To design and create a product that can solve/reduce involuntary states of boredom through exposure to new things of potential interest. It must provide people with something that takes up time without being demanding, teach without knowing they are being taught, and also the product must not loose peoples interest; it must also provide some form of variety to my product to make sure my product doesn't become mundane and then boring itself. The product must be easily accessible while also original. The product must be easy to use. Finally the product must be something that excites consumers.<br/>
 
-## 1.3 Areas of Investigation 
-After evaluating my own strengths, I came to the conclusion that to fulfil my need effectively it would be best to play to my strengths and produce some form of product that utilizes [retro](#retro) technology and takes advantage of my programming knowledge and connections.  
+## 1.3 What Is The Design/Product Concept (ongoing) 
+After evaluating my own strengths, I came to the conclusion that to fulfil my need effectively it would be best to play to my strengths and produce some form of product that utilizes [retro](#retro) technology and takes advantage of my programming knowledge and connections.<br/>
+The way I am going to do this is by creating a *magazine* which incorporates two different 'innovative concepts' I have come up with.<br/>
+* A 'niche-less' magazine <br/>
+A magazine not limited by genre or topic aimed at exposing people to new things. Written, not by editors, but by people of thematic authority. The main way it will work is someone, already with some form of interest, will purchase the magazine because someone they follow/support has featured a piece in the mag (magazine).<br/>
+They then will be able to read/view/interact with that initial personal selling point and after they are done they will interact with the next piece which is something totally unrelated or related maybe slightly, but not directly connected to the one prior. This in essence forces people to pay attention to something they wouldn't have prior allowing for the possibility of newfound interest.<br/>
+* A magazine as a .gb Gameboy format (the Gameboy's native [executable](#executable) format).<br/>
+A magazine which can be read and interacted with on the [Gameboy](#gameboy) or through a Gameboy [Emulator](#emulator).<br/>
+Why a Gameboy?<br/>
+The Gameboy has the nostalgia factor, a cartridge is easy to reach collectable status, a large % of the main target market has a Gameboy or knows someone who does (ages 16 - 40), it has a simple and non confusing User Interface (UI), it is easy to setup (if I'm making someone look for something they haven't used in 15 years then it has to be easy to use when found. In the case of a Gameboy, you put in 2-4 AA batteries and put in the cartridge and it  works.)
+
+## 1.3.1 What Is The Design As A Product Going To Include (ongoing)
+
+## 1.4 Areas of Investigation 
