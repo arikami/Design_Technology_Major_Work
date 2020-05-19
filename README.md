@@ -158,9 +158,41 @@ A magazine not limited by genre or topic aimed at exposing people to new things.
 They then will be able to read/view/interact with that initial personal selling point and after they are done they will interact with the next piece which is something totally unrelated or related maybe slightly, but not directly connected to the one prior. This in essence forces people to pay attention to something they wouldn't have prior allowing for the possibility of newfound interest.<br/>
 * A magazine as a .gb Gameboy format (the Gameboy's native [executable](#executable) format).<br/>
 A magazine which can be read and interacted with on the [Gameboy](#gameboy) or through a Gameboy [Emulator](#emulator).<br/>
-Why a Gameboy?<br/>
-The Gameboy has the nostalgia factor, a cartridge is easy to reach collectable status, a large % of the main target market has a Gameboy or knows someone who does (ages 16 - 40), it has a simple and non confusing User Interface (UI), it is easy to setup (if I'm making someone look for something they haven't used in 15 years then it has to be easy to use when found. In the case of a Gameboy, you put in 2-4 AA batteries and put in the cartridge and it  works.)
+
+**Why a Gameboy?** <br/>
+The Gameboy has the nostalgia factor, a cartridge is easy to reach collectable status, a large % of the main target market has a Gameboy or knows someone who does (ages 16 - 40), it has a simple and non confusing User Interface (UI), it is easy to setup (if I'm making someone look for something they haven't used in 15 years then it has to be easy to use when found. In the case of a Gameboy, you put in 2-4 AA batteries and put in the cartridge and it  works. No looking for a charger, the Gameboy is naturally durable so chances of it being broken are also slim). It is an old system and gave birth to some of the worlds most popular game franchises so there are ways to [emulate](#emulator) the Gameboy on almost any system ( i have emulated the Gameboy on my first generation IPod and my kindle). <br/>
+**Example Of How It Work?** <br/>
+Lets say your into [Gunpla](#gunpla) and you watch a certain [Gunpla](#gunpla) YouTuber (someone who makes YouTube videos), he does reviews and is really involved in the gunpla culture. He writes an article for this magazine about his tips for making gunpla and gives some cool information about the history of the kits. You purchase the magazine because you want to support this creator and you're into his work. You read his article and then when you are done you read an article by a famous graffiti artist who started his own spray can brand. He talks about how he does his art and makes a piece for the magazine. You think 'wow this is actually so cool.' After reading you go and look more into graffiti art, and maybe incorporate it into your work, possibly purchasing some of this artists cans to try on your own gunpla.<br/>
+This scenario will be common with the audience of my magazine. Creating sub cultures that would have never existed without. Exposing people who would have never given the subject the time of day. Its a cultural festival with everyone sharing and getting excited over what they love while simultaneously being a marketing super-tool breaking into markets that would never have been accessed prior. <br/>
 
 ## 1.3.1 What Is The Design As A Product Going To Include (ongoing)
+This section will include a list of things that will be in the product. This will allow me a definitive list of what I need to make and its place in the product.<br/>
+This will dictate what my areas of investigation will be as well as what sections of my product I need to produce.<br/>
+* Packaging
+    - Box
+    - Stickers
+    - Printouts
+    - Insert
+    - Cartridge shell
+    - Cartridge sticker
+    - Shipping packaging
+* Cartridge Chip
+    - PCB
+    - MCB or MCB alternative
+    - ROM 
+* Website 
+    - Online Emulator
+    - Online shop
+* Merchandise
+    - Tees
+    - Socks
+    - Totes
+    - Pins
+    - Cases
+
+**Notes:**<br/>
+MCB chip added (date: )<br/>
+Printouts added (date: )<br/>
+Merchandise added to subsidies shipping (date: )<br/>
 
 ## 1.4 Areas of Investigation 
