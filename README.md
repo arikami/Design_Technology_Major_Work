@@ -11,7 +11,7 @@ By Sebastian Cincotta (Arikami)
 [1.2 Design Brief](#12-design-brief)<br/>
 [1.3 What Is The Design/Product Concept (ongoing)](#13-what-is-the-designproduct-concept-ongoing)<br/>
 [1.3 What Is The Design As A Product Going To Include (ongoing)](#131-what-is-the-design-as-a-product-going-to-include-ongoing)<br/>
-[1.4 Areas of Investigation](#23-areas-of-investigation)<br/>
+[1.4 Areas of Investigation](#14-areas-of-investigation)<br/>
 
 ##  Glossary
 
